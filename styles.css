@@ -270,9 +270,9 @@ footer {
     #projects {
         width: 95%;
         display: grid;
-        grid-template-columns: 1fr 1fr;
         text-align: center;
         margin:auto;
+        grid-template-columns: 1fr 1fr;
     }
 
     .projectimage {
@@ -280,8 +280,9 @@ footer {
         margin: 2% auto;
         opacity: 70%;
         border-radius: 5px;
-    
+        
     }
+
 
 }
 
